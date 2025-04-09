@@ -1,13 +1,21 @@
 # Contributing
 
-Before contributing or comment, please note that I am not a professional infosec or pen tester. I am just a student who want to learn and teach to others. Other contributors might be students as well, so be patient and indulgent with everyone. Do not forget that the main goal here is to write about ethical hacking and teach to others. Tools that are just about malicious hacking and not useful for a professional pen tester will not be added to the README.
+Before contributing or commenting, please keep in mind that I am not a professional in infosec or penetration testing—just a student eager to learn and share knowledge with others. Many contributors here may also be students or beginners, so let’s foster a respectful and supportive environment.
 
-**Please don't open an issue to get help with a tool.**
+The main goal of this project is to promote **ethical hacking** and to create educational content. Tools that are strictly focused on malicious hacking or offer no practical use for a professional penetration tester will **not** be included in the README.
 
-We learn ethical hacking here, for discussions about hacking in general please refers to the *[#discussions](https://github.com/sundowndev/hacker-roadmap#discussions)* section in the README.
+> **Please do not open issues to request help with tools.**
 
-### Before submitting a new tool
+This space is focused on ethical hacking education. For general discussions, please head over to the *[**#discussions**](https://github.com/sundowndev/hacker-roadmap#discussions)* section in the **README**.
 
-Please don't submit unverified or untested tools. We only want to share tools that have good community of contributors. If you've created a tool, be sure the code is stable and will be maintained.
+## Submitting a New Tool
 
-Thank you for sharing and contributing ! :tada:
+Before submitting a tool, make sure it meets the following criteria:
+
+- ✅ The tool has been **tested and verified**.
+- ✅ It is **actively maintained** or has an established, supportive community.
+- ✅ If you are the creator, ensure the code is **stable** and well-documented.
+
+We’re here to learn together and help others do the same—thanks for contributing!
+
+Thank you for sharing and contributing! :tada:
