@@ -297,22 +297,34 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 ([Table of Contents](#table-of-contents))
 
+# Education
+
+- [Cyber Security Expert](https://roadmap.sh/cyber-security) (Roadmap.sh)
+- [Cyber Security Tutorial](https://www.tutorialspoint.com/cybersecurity/index.htm)
+- [Ethical Hacking in 12 Hours - Full Course - Learn to Hack!](https://www.youtube.com/watch?v=fNzpcB7ODxQ) (The Cyber Mentor)
+- [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu) (freeCodeCamp.org)
+- [Developer Roadmaps](https://roadmap.sh/)
+
+# YouTube
+
+- [Ryan Montgomery](https://www.youtube.com/@0dayCTF)
+- [The hacker’s roadmap (how to get started in IT in 2025)](https://www.youtube.com/watch?v=5xWnmUEi1Qw) (NetworkChuck)
+- [2025 Ethical Hacker Roadmap with lots of free training (NOT Sponsored)](https://www.youtube.com/watch?v=OCjh8AULc8Y) (David Bombal)
+
 # Additional resources
 
-- [Developer Roadmaps](https://roadmap.sh/)
-- [Devbreak on Twitter](https://x.com/DevbreakFR)
+- [Awesome-Hacking Lists](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [The Life of a Security Researcher](https://www.alienvault.com/blogs/security-essentials/the-life-of-a-security-researcher)
 - [Find awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
-- [Awesome-Hacking Lists](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
+- [Don't use VPN services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
+- [How to Avoid Becoming a Script Kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie)
+- [OWASP Top 10 Non-Human Identities Risks - 2025](https://owasp.org/www-project-non-human-identities-top-10/2025/top-10-2025/)
+- [Starting in cybersecurity?](https://blog.0day.rocks/starting-in-cybersecurity-5b02d827fb54)
 - [Crack Station](http://crackstation.net/)
 - [Exploit Database](http://www.exploit-db.com/)
 - [Hackavision](http://www.hackavision.com/)
 - [Hackmethod](https://www.hackmethod.com/)
 - [Smash the Stack](http://smashthestack.org/)
-- [Don't use VPN services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
-- [How to Avoid Becoming a Script Kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie)
-- [OWASP Top 10 Non-Human Identities Risks - 2025](https://owasp.org/www-project-non-human-identities-top-10/2025/top-10-2025/)
-- [Starting in cybersecurity?](https://blog.0day.rocks/starting-in-cybersecurity-5b02d827fb54)
 - [SecLists](http://seclists.org/)
 - [SecTools](http://sectools.org/)
 
@@ -322,7 +334,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 - [Kali Docs](https://www.kali.org/docs/)
 - [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641) (2014)
-- [Kali Linux Revealed](https://www.amazon.com/Kali-Linux-Revealed-Penetration-Distribution/dp/0997615605) - [PDF](https://kali.training/downloads/Kali-Linux-Revealed-1st-edition.pdf) (2017)
+- [Kali Linux Revealed](https://www.amazon.com/Kali-Linux-Revealed-Penetration-Distribution/dp/0997615605) (2017)
 - [Blue Team Field Manual (BTFM)](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X) (2017)
 - [Cybersecurity - Attack and Defense Strategies](https://www.amazon.com/Cybersecurity-Defense-Strategies-Infrastructure-security/dp/1788475291) (2018)
 - [NMAP Network Scanning: Official Discovery](https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717) (2009)
@@ -346,7 +358,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Latest Hacking News](https://latesthackingnews.com/)
 - [Hackread](https://hackread.com/)
 
-[70 Best Hacker Blogs and Websites in 2025](https://bloggers.feedspot.com/hacker_blogs/) - FeedSpot
+[70 Best Hacker Blogs and Websites in 2025](https://bloggers.feedspot.com/hacker_blogs/) (FeedSpot)
 
 ## Security Advisories
 
