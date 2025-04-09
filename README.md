@@ -29,7 +29,7 @@ This repository is an overview of what you need to learn penetration testing and
 - [Difference between hacking and ethical hacking](#difference-between-hacking-and-ethical-hacking)
 - [Languages](#languages)
 - [Content Management Systems](#content-management-systems)
-- [Basic steps of pen testing](#basic-steps-of-pen-testing)
+- [Basic steps of penetration testing](#basic-steps-of-penetration-testing)
 - [Tools by category](#tools-by-category)
   - [:male_detective: Information Gathering](#male_detective-information-gathering)
   - [:lock: Password Attacks](#lock-password-attacks)
@@ -41,6 +41,8 @@ This repository is an overview of what you need to learn penetration testing and
   - [:tada: Post Exploitation](#tada-post-exploitation)
   - [:package: Frameworks](#package-frameworks)
 - [Additional resources](#additional-resources)
+  - [Education](#education)
+  - [YouTube](#youtube)
   - [Books / Manuals](#books--manuals)
   - [Discussions](#discussions)
   - [News](#news)
@@ -65,11 +67,13 @@ If a system is not secure, then an attacker may be able to disrupt or take unaut
 - **Scope**: It can include testing web applications, internal/external networks, wireless networks, mobile apps, or physical security.
 
 ### Types of Penetration Testing:
+
 1. **Black Box**: Tester has no prior knowledge of the system.
 2. **White Box**: Tester has full knowledge, including source code and infrastructure.
 3. **Gray Box**: Tester has partial knowledge (like a user with some access).
 
 ### Common Steps in a Pen Test:
+
 1. **Reconnaissance** – Gather information about the target.
 2. **Scanning** – Identify open ports, services, and vulnerabilities.
 3. **Exploitation** – Try to break in using identified weaknesses.
@@ -77,6 +81,7 @@ If a system is not secure, then an attacker may be able to disrupt or take unaut
 5. **Reporting** – Document findings and provide remediation recommendations.
 
 ### Why It's Important:
+
 - Prevents data breaches
 - Helps meet compliance requirements (e.g., PCI-DSS, HIPAA)
 - Builds trust with customers and stakeholders
@@ -97,7 +102,7 @@ Also, this is important to inform yourself about the law and what you are allowe
 
 - **Opsec**: Operations security, which is a process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information. [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)
 
-- **Black/grey/white hat hacker**: Someone who uses bugs or exploits to break into systems or applications. The goal and the method differ depending on whether they're a black, grey, or white hat hacker. A black hat is just someone malicious who does not wait  for permission to break into a system or application. A white hat is *usually* a security researcher who practices ethical hacking. A grey hat is just in the middle of these two kinds of hackers, they might want to be malicious if it can be beneficial (data breach, money, whistleblowing ...).
+- **Black/grey/white hat hacker**: Someone who uses bugs or exploits to break into systems or applications. The goal and the method differ depending on whether they're a black, grey, or white hat hacker. A black hat is just someone malicious who does not wait  for permission to break into a system or application. A white hat is *usually* a security researcher who practices ethical hacking. A grey hat is just in the middle of these two kinds of hackers, they might want to be malicious if it can be beneficial (data breach, money, whistleblowing...).
 
 - **Red team**: According to Wikipedia, a red team or the red team is an independent group that challenges an organization to improve its effectiveness by assuming an adversarial role or point of view. It is particularly effective in organizations with strong cultures and fixed ways of approaching problems. The United States intelligence community (military and civilian) has red teams that explore alternative futures and write articles as if they were foreign world leaders. Little formal doctrine or publications about Red Teaming in the military exist. In infosec exercises, Red teamers are playing the role of attackers. [Wikipedia](https://en.wikipedia.org/wiki/Red_team)
 
@@ -165,24 +170,75 @@ Each language also comes with its own design patterns and best practices. Choosi
 
 # Content Management Systems
 
-- Wordpress
-- Joomla
-- Drupal
-- SPIP
+Content Management Systems (CMS) are platforms that allow users to create, manage, and modify digital content with ease — often without needing to code.
+
+## Popular CMS Platforms:
+
+- **WordPress** – The most widely used CMS in the world, known for its flexibility, ease of use, and a vast ecosystem of plugins and themes.
+- **Joomla!** – A powerful CMS that offers more built-in features than WordPress, ideal for users with some technical experience.
+- **Drupal** – A highly customizable and secure CMS preferred by developers and large-scale websites needing complex data structures.
+- **SPIP** – A French-language-oriented CMS designed for collaborative publishing, often used by academic and cultural organizations.
 
 These are the most used Content Management Systems (CMS). See a complete list [here](https://en.wikipedia.org/wiki/List_of_content_management_systems).
 
 ([Table of Contents](#table-of-contents))
 
-# Basic steps of pen testing
+# Basic Steps of Penetration Testing
+
+1. **Planning & Reconnaissance**
+
+   - Define scope, goals, and rules of engagement
+   - Gather information (open-source intelligence, DNS info, IPs, etc.)
+
+3. **Scanning & Enumeration**
+
+   - Identify live hosts, open ports, and services
+   - Use tools like Nmap, Nessus, or Nikto to gather details about systems
+   - Enumerate users, shares, and system banners
+
+5. **Gaining Access**
+
+   - Exploit vulnerabilities to gain initial access
+   - Techniques: SQL injection, password cracking, buffer overflows, etc.
+   - Tools: Metasploit, SQLmap, Hydra, etc.
+
+7. **Maintaining Access**
+
+   - Install backdoors or create persistent accounts
+   - Simulate APT (Advanced Persistent Threat) behavior
+   - Optional based on test type and agreement
+
+9. **Privilege Escalation**
+   
+   - Elevate access from user-level to admin/root
+   - Techniques: Exploiting weak configs, misconfigurations, or kernel vulnerabilities
+
+11. **Post-Exploitation & Data Extraction**
+
+   - Assess the value of the compromised system
+   - Extract sensitive data, test lateral movement to other systems
+   - Understand the potential impact of a real breach
+
+11. **Covering Tracks (optional)**
+
+   - Clear logs and remove artifacts (used to simulate real attackers)
+   - Only done if explicitly permitted in the rules of engagement
+
+11. **Reporting & Remediation**
+
+   - Document findings, exploited vulnerabilities, and recommendations
+   - Provide technical and non-technical reports for different stakeholders
+   - May include proof of concept (PoC) and fix suggestions
+
+## The Penetration Testing Steps
 
 <p align="center">
     <img src="https://www.tutorialspoint.com/penetration_testing/images/penetration_testing_method.jpg">
 </p>
 
-*Source: [tutorialspoint](https://www.tutorialspoint.com/penetration_testing/index.htm)*
+*Image source: [Penetration Testing Steps: A Comprehensive Guide](https://www.stationx.net/wp-content/uploads/2023/07/Penetration-Test-Methodology.png)*
 
-[Read more about pen testing methodology](https://www.tutorialspoint.com/penetration_testing/penetration_testing_method.htm)
+[Read more about pen testing](https://www.tutorialspoint.com/penetration_testing/index.htm)
 
 ([Table of Contents](#table-of-contents))
 
@@ -297,20 +353,6 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 ([Table of Contents](#table-of-contents))
 
-# Education
-
-- [Cyber Security Expert](https://roadmap.sh/cyber-security) (Roadmap.sh)
-- [Cyber Security Tutorial](https://www.tutorialspoint.com/cybersecurity/index.htm)
-- [Ethical Hacking in 12 Hours - Full Course - Learn to Hack!](https://www.youtube.com/watch?v=fNzpcB7ODxQ) (The Cyber Mentor)
-- [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu) (freeCodeCamp.org)
-- [Developer Roadmaps](https://roadmap.sh/)
-
-# YouTube
-
-- [Ryan Montgomery](https://www.youtube.com/@0dayCTF)
-- [The hacker’s roadmap (how to get started in IT in 2025)](https://www.youtube.com/watch?v=5xWnmUEi1Qw) (NetworkChuck)
-- [2025 Ethical Hacker Roadmap with lots of free training (NOT Sponsored)](https://www.youtube.com/watch?v=OCjh8AULc8Y) (David Bombal)
-
 # Additional resources
 
 - [Awesome-Hacking Lists](https://github.com/Hack-with-Github/Awesome-Hacking)
@@ -327,6 +369,20 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Smash the Stack](http://smashthestack.org/)
 - [SecLists](http://seclists.org/)
 - [SecTools](http://sectools.org/)
+
+## Education
+
+- [Cyber Security Expert](https://roadmap.sh/cyber-security) (Roadmap.sh)
+- [Cyber Security Tutorial](https://www.tutorialspoint.com/cybersecurity/index.htm)
+- [Ethical Hacking in 12 Hours - Full Course - Learn to Hack!](https://www.youtube.com/watch?v=fNzpcB7ODxQ) (The Cyber Mentor)
+- [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu) (freeCodeCamp.org)
+- [Developer Roadmaps](https://roadmap.sh/)
+
+## YouTube
+
+- [Ryan Montgomery](https://www.youtube.com/@0dayCTF)
+- [The hacker’s roadmap (how to get started in IT in 2025)](https://www.youtube.com/watch?v=5xWnmUEi1Qw) (NetworkChuck)
+- [2025 Ethical Hacker Roadmap with lots of free training (NOT Sponsored)](https://www.youtube.com/watch?v=OCjh8AULc8Y) (David Bombal)
 
 ## Books / Manuals
 
@@ -357,8 +413,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [HackerOne](https://www.hackerone.com/blog)
 - [Latest Hacking News](https://latesthackingnews.com/)
 - [Hackread](https://hackread.com/)
-
-[70 Best Hacker Blogs and Websites in 2025](https://bloggers.feedspot.com/hacker_blogs/) (FeedSpot)
+- [70 Best Hacker Blogs and Websites in 2025](https://bloggers.feedspot.com/hacker_blogs/) (FeedSpot)
 
 ## Security Advisories
 
