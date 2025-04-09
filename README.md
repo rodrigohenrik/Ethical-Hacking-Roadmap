@@ -251,7 +251,7 @@ These are the most used Content Management Systems (CMS). See a complete list [h
 
 A more complete list of tools can be found on the [Kali Linux official website](https://www.kali.org/tools/).
 
-#### :male_detective: Information Gathering
+### :male_detective: Information Gathering
 
 Information Gathering tools allow you to collect host metadata about services and users. Check informations about a domain, IP address, phone number or an email address.
 
@@ -268,7 +268,7 @@ Information Gathering tools allow you to collect host metadata about services an
 | [Nmap](https://github.com/nmap/nmap)      | **C/C++** | `Linux/Windows/macOS` | A very common tool. Network host, vuln, and port detector. |
 | [PhoneInfoga](https://github.com/sundowndev/PhoneInfoga)      | **Go** | `Linux/macOS` | An OSINT framework for phone numbers. |
 
-#### :lock: Password Attacks
+### :lock: Password Attacks
 
 Crack passwords and create wordlists.
 
@@ -282,13 +282,13 @@ Crack passwords and create wordlists.
 | [WGen](https://github.com/agusmakmun/Python-Wordlist-Generator)      | **Python** | `Linux/Windows/macOS` | Create awesome wordlists with Python. |
 | [SSH Auditor](https://github.com/ncsa/ssh-auditor)      | **Go** | `Linux/macOS` | The best way to scan for weak SSH passwords on your network. |
 
-###### :memo: Wordlists
+##### :memo: Wordlists
 
 | Tool        | Description    |
 | ----------- |----------------|
 | [Probable Wordlist](https://github.com/berzerk0/Probable-Wordlists)      | Wordlists sorted by probability created for password generation and testing. |
 
-#### :globe_with_meridians: Wireless Testing
+### :globe_with_meridians: Wireless Testing
 
 Used for intrusion detection and wifi attacks.
 
@@ -300,7 +300,7 @@ Used for intrusion detection and wifi attacks.
 | [Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)      | **Shell** | `Linux/Windows/macOS` | This is a multi-use bash script for Linux systems to audit wireless networks. |
 | [Airbash](https://github.com/tehw0lf/airbash)      | **C** | `Linux/Windows/macOS` | A POSIX-compliant, fully automated WPA PSK handshake capture script aimed at penetration testing. |
 
-#### :wrench: Exploitation Tools
+### :wrench: Exploitation Tools
 
 Access systems and data with service-oriented exploits.
 
@@ -311,7 +311,7 @@ Access systems and data with service-oriented exploits.
 | [Commix](https://github.com/commixproject/commix)       | **Python** | `Linux/Windows/macOS` | Automated All-in-One OS command injection and exploitation tool.￼ |
 | [Nuclei](https://github.com/projectdiscovery/nuclei)    | **Go**     | `Linux/Windows/macOS` | Fast and customisable vulnerability scanner based on simple YAML-based DSL. |
 
-#### :busts_in_silhouette: Sniffing & Spoofing
+### :busts_in_silhouette: Sniffing & Spoofing
 
 Listen to network traffic or fake a network entity.
 
@@ -321,7 +321,7 @@ Listen to network traffic or fake a network entity.
 | [WiFi Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin)      | **Python** | `Linux/Windows/macOS/Android` | Framework for Rogue Wi-Fi Access Point Attack. |
 | [Zarp](https://github.com/hatRiot/zarp)      | **Python** | `Linux/Windows/macOS` | A free network attack framework. |
 
-#### :rocket: Web Hacking
+### :rocket: Web Hacking
 
 Exploit popular CMSs that are hosted online.
 
@@ -333,7 +333,7 @@ Exploit popular CMSs that are hosted online.
 | [Drupwn](https://github.com/immunIT/drupwn)      | **Python** | `Linux/Windows/macOS` | Drupal Security Scanner to perform enumerations on Drupal-based web applications. |
 | [CMSeek](https://github.com/Tuhinshubhra/CMSeek)      | **Python** | `Linux/Windows/macOS` | CMS Detection and Exploitation suite - Scan WordPress, Joomla, Drupal, and 130 other CMSs. |
 
-#### :tada: Post Exploitation
+### :tada: Post Exploitation
 
 Exploits for after you have already gained access.
 
@@ -341,7 +341,7 @@ Exploits for after you have already gained access.
 | ----------- |-------------------------|----------|----------------|
 | [TheFatRat](https://github.com/Screetsec/TheFatRat)      | **C** | `Linux/Windows/macOS` | Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack, dll. |
 
-#### :package: Frameworks
+### :package: Frameworks
 
 Frameworks are packs of pen testing tools with custom shell navigation and documentation.
 
@@ -391,8 +391,6 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 ## Books / Manuals
 
-**Warning:** I haven't read them all, so do not consider that I am recommending them as I liked them. They just seem to provide useful resources.
-
 - [Kali Docs](https://www.kali.org/docs/)
 - [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641) (2014)
 - [Kali Linux Revealed](https://www.amazon.com/Kali-Linux-Revealed-Penetration-Distribution/dp/0997615605) (2017)
@@ -425,9 +423,9 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 ## Security Advisories
 
-- [CVE](http://cve.mitre.org/)
-- [CWE](http://cwe.mitre.org/)
-- [NVD](http://web.nvd.nist.gov/)
+- [CVE](http://cve.mitre.org/) - Official portal of the CVE program, which catalogs publicly known cybersecurity vulnerabilities by assigning unique identifiers (CVE IDs) to facilitate management and communication among security organizations.
+- [CWE](http://cwe.mitre.org/) - Official portal of the CWE program, which categorizes common software and hardware weaknesses to help organizations identify, understand, and mitigate security flaws using a standardized framework.
+- [NVD](http://web.nvd.nist.gov/) - Official portal of the National Vulnerability Database (NVD), a U.S. government repository managed by NIST that catalogs publicly known cybersecurity vulnerabilities, providing standardized data to support automated vulnerability management, security measurement, and compliance.
 
 ## Challenges
 
