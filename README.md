@@ -32,17 +32,17 @@ Most of the tools included are **UNIX-compatible**, **free**, and **open source*
 - I wish you wouldn't use these tools for illegal purposes, but if you do, I sure hope you know what you're doing.
 - Practice using [challenges](#challenges), not real targets!
 
-# Index
+# Index / Table of Content
 
 - [Introduction](#introduction)
   - [What is penetration testing?](#what-is-penetration-testing)
   - [Want to become a penetration tester?](#want-to-become-a-penetration-tester)
-- [Some Ethical Hacking vocabulary](#some-ethical-hacking-vocabulary)
-- [Difference between hacking and ethical hacking](#difference-between-hacking-and-ethical-hacking)
+- [Some Ethical Hacking Terms](#some-ethical-hacking-terms)
+- [Difference Between Hacking and Ethical Hacking](#difference-between-hacking-and-ethical-hacking)
 - [Languages](#languages)
 - [Content Management Systems](#content-management-systems)
-- [Basic steps of penetration testing](#basic-steps-of-penetration-testing)
-- [Tools by category](#tools-by-category)
+- [Basic Steps of Penetration Testing](#basic-steps-of-penetration-testing)
+- [Tools by Category](#tools-by-category)
   - [:male_detective: Information Gathering](#male_detective-information-gathering)
   - [:lock: Password Attacks](#lock-password-attacks)
     - [:memo: Wordlists](#memo-wordlists)
@@ -52,7 +52,7 @@ Most of the tools included are **UNIX-compatible**, **free**, and **open source*
   - [:rocket: Web Hacking](#rocket-web-hacking)
   - [:tada: Post Exploitation](#tada-post-exploitation)
   - [:package: Frameworks](#package-frameworks)
-- [Additional resources](#additional-resources)
+- [Additional Resources](#additional-resources)
   - [Education](#education)
   - [YouTube](#youtube)
   - [Books / Manuals](#books--manuals)
@@ -105,11 +105,11 @@ Knowing about risks on the internet and how they can be prevented is very useful
 
 This repository aims first to establish a reflection method on penetration testing and explain how to proceed to secure an application. And secondly, to regroup all kinds of tools or resources that pen testers need. **Be sure to know the basics of programming languages and internet security before learning pen testing.**
 
-Also, this is important to inform yourself about the law and what you are allowed to do or not. According to your country, the computer laws are not the same. First, check laws about privacy and surveillance: [Nine eyes countries](https://en.wikipedia.org/wiki/Five_Eyes#Other_international_cooperatives), [Five eyes](https://en.wikipedia.org/wiki/Five_Eyes), and Fourteen Eyes. Always check if what you're doing is legal. Even when it's not offensive, information gathering can also be illegal!
+Also, this is important to inform yourself about the law and what you are allowed to do or not. According to your country, the computer laws are not the same. First, check laws about privacy and surveillance: [Nine eyes countries](https://en.wikipedia.org/wiki/Five_Eyes#Other_international_cooperatives), [Five eyes](https://en.wikipedia.org/wiki/Five_Eyes), and [Fourteen Eyes](https://en.wikipedia.org/wiki/Five_Eyes#Fourteen_Eyes). Always check if what you're doing is legal. Even when it's not offensive, information gathering can also be illegal!
 
 [*Go to the index*](#index) 👆🏻
 
-# Some Ethical Hacking vocabulary
+# Some Ethical Hacking Terms
 
 - **Infosec**: Information security, which is the practice of preventing unauthorized access, use, disclosure, disruption, modification, inspection, recording, or destruction of information. The information or data may take any form, e.g., electronic or physical. Infosec can also be a person who practices ethical security. [Wikipedia](https://en.wikipedia.org/wiki/Information_security)
 
@@ -121,9 +121,9 @@ Also, this is important to inform yourself about the law and what you are allowe
 
 - **Blue team**: A blue team is a group of individuals who perform an analysis of information systems to ensure security, identify security flaws, verify the effectiveness of each security measure, and ensure certain all security measures will continue to be effective after implementation. As a result, blue teams were developed to design defensive measures against red team activities. In infosec exercises, Blue teamers are playing the role of defenders. [Wikipedia](https://en.wikipedia.org/wiki/Blue_team_(computer_security))
 
-- **Penetration tester**: An ethical hacker who practices security, tests applications and systems to prevent intrusions or find vulnerabilities.
+- **Penetration tester**: An ethical hacker who practices security, tests applications and systems to prevent intrusions or find vulnerabilities. [Wikipedia](https://en.wikipedia.org/wiki/Penetration_test)
 
-- **Security researcher**: Someone who practices pen testing and browses the web to find phishing/fake websites, infected servers, bugs, or vulnerabilities. They can work for a company as a security consultant and are most likely a Blue teamer.
+- **Security researcher**: Someone who practices pen testing and browses the web to find phishing/fake websites, infected servers, bugs, or vulnerabilities. They can work for a company as a security consultant and are most likely a Blue teamer. [Wikipedia](https://en.wikipedia.org/wiki/Security_hacker)
 
 - **Reverse engineering**: Reverse engineering, also called back engineering, is the process by which a man-made object is deconstructed to reveal its designs, architecture, or to extract knowledge from the object. Similar to scientific research, the only difference is that scientific research is about a natural phenomenon. [Wikipedia](https://en.wikipedia.org/wiki/Reverse_engineering)
 
@@ -133,7 +133,7 @@ Also, this is important to inform yourself about the law and what you are allowe
 
 [*Go to the index*](#index) 👆🏻
 
-# Difference between hacking and ethical hacking
+# Difference Between Hacking and Ethical Hacking
 
 While both hackers and ethical hackers use similar techniques and skills, their intentions and goals are fundamentally different.
 
@@ -245,7 +245,7 @@ These are the most used Content Management Systems (CMS). See a complete list [h
 
 [*Go to the index*](#index) 👆🏻
 
-# Tools by category
+# Tools by Category
 
 A more complete list of tools can be found on the [Kali Linux official website](https://www.kali.org/tools/).
 
@@ -356,7 +356,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 [*Go to the index*](#index) 👆🏻
 
-# Additional resources
+# Additional Resources
 
 - [Awesome-Hacking Lists](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [The Life of a Security Researcher](https://www.alienvault.com/blogs/security-essentials/the-life-of-a-security-researcher)
