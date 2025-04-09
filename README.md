@@ -1,14 +1,12 @@
 <p align="center">
-    <img src="https://i.imgur.com/VeEYEkT.png" alt="Hacker roadmap" /><br>
+    <img src="https://imgur.com/a/h1qOkGB" alt="Ethical Hacker Roadmap" /><br>
 </p>
 
 This repository is an overview of what you need to learn penetration testing and a collection of hacking tools, resources, and references to practice ethical hacking. Most of the tools are UNIX compatible, free, and open source.
 
 ## Status
 
-**This project is constantly being updated**. Some content may be out of date.
-
-**Last revision:** April 9, 2025
+**This project is constantly being updated**. Some content may be out of date. **(Last revision:** April 9, 2025)
 
 ----
 
@@ -52,7 +50,7 @@ This repository is an overview of what you need to learn penetration testing and
   - [Challenges](#challenges)
 - [License](#license)
 
-(**TOC made with:** [nGitHubTOC](https://imthenachoman.github.io/nGitHubTOC/))
+*TOC made with: [nGitHubTOC](https://imthenachoman.github.io/nGitHubTOC/)*
 
 # Introduction
 
@@ -96,7 +94,7 @@ This repository aims first to establish a reflection method on penetration testi
 
 Also, this is important to inform yourself about the law and what you are allowed to do or not. According to your country, the computer laws are not the same. First, check laws about privacy and surveillance: [Nine eyes countries](https://en.wikipedia.org/wiki/Five_Eyes#Other_international_cooperatives), [Five eyes](https://en.wikipedia.org/wiki/Five_Eyes), and Fourteen Eyes. Always check if what you're doing is legal. Even when it's not offensive, information gathering can also be illegal!
 
-[*Go to the index*](#index)
+[*Go to the index*](#index) :point_up_2_tone1
 
 # Some vocabulary
 
@@ -120,7 +118,7 @@ Also, this is important to inform yourself about the law and what you are allowe
 
 - **Threat analyst**: A threat hunter, also called a cybersecurity threat analyst, is a security professional or managed service provider (MSP) that proactively uses manual or machine-assisted techniques to detect security incidents that may elude the grasp of automated systems. Threat hunters aim to uncover incidents that an enterprise would otherwise not find out about, providing chief information security officers (CISOs) and chief information officers (CIOs) with an additional line of defense against advanced persistent threats (APTs). [SearchCIO](https://searchcio.techtarget.com/definition/threat-hunter-cybersecurity-threat-analyst)
 
-[*Go to the index*](#index)
+[*Go to the index*](#index) :point_up_2_tone1
 
 # Difference between hacking and ethical hacking
 
@@ -132,7 +130,7 @@ Ethical hacking involves identifying vulnerabilities in systems, networks, or ap
 
 An ethical hacker is essentially a security expert who thinks like a hacker—but acts with permission and integrity. They simulate real-world attacks to test defenses and ensure that systems are as secure as possible.
 
-[*Go to the index*](#index)
+[*Go to the index*](#index) :point_up_2_tone1
 
 # Languages
 
@@ -168,7 +166,7 @@ Each language also comes with its own design patterns and best practices. Choosi
 - PHP
 - Go
 
-[*Go to the index*](#index)
+[*Go to the index*](#index) :point_up_2_tone1
 
 # Content Management Systems
 
@@ -183,7 +181,7 @@ Content Management Systems (CMS) are platforms that allow users to create, manag
 
 These are the most used Content Management Systems (CMS). See a complete list [here](https://en.wikipedia.org/wiki/List_of_content_management_systems).
 
-[*Go to the index*](#index)
+[*Go to the index*](#index) :point_up_2_tone1
 
 # Basic Steps of Penetration Testing
 
@@ -232,7 +230,7 @@ These are the most used Content Management Systems (CMS). See a complete list [h
 
 *Image source: [How to Perform Network Penetration Testing in 2025](https://www.stationx.net/how-to-perform-network-penetration-testing/)*. [Read more about Penetration Testing](https://www.tutorialspoint.com/penetration_testing/index.htm)
 
-[*Go to the index*](#index)
+[*Go to the index*](#index) :point_up_2_tone1
 
 # Tools by category
 
@@ -343,7 +341,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 | [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)      | **Python** | `Linux/Windows/macOS` | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. |
 | [Burp Suite](https://portswigger.net/burp)      | **Java** | `Linux/Windows/macOS` | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger. **This tool is not free and open source** |
 
-[*Go to the index*](#index)
+[*Go to the index*](#index) :point_up_2_tone1
 
 # Additional resources
 
@@ -426,10 +424,10 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [TryHackMe](https://tryhackme.com/) - TryHackMe is a free online platform for learning cybersecurity, using hands-on exercises and labs.
 - [PicoCTF](https://picoctf.org/) - Provides you with fun CTF challenges of varying levels of difficulty to practice on.
 
-[*Go to the index*](#index)
+[*Go to the index*](#index) :point_up_2_tone1
 
 # License
 
 This repository is under the MIT license.
 
-[*Go to the index*](#index)
+[*Go to the index*](#index) :point_up_2_tone1
