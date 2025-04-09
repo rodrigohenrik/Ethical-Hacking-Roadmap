@@ -209,7 +209,7 @@ These are the most used Content Management Systems (CMS). See a complete list [h
    - Optional based on test type and agreement
 
 9. **Privilege Escalation**
-   
+
    - Elevate access from user-level to admin/root
    - Techniques: Exploiting weak configs, misconfigurations, or kernel vulnerabilities
 
@@ -233,12 +233,12 @@ These are the most used Content Management Systems (CMS). See a complete list [h
 ## The Penetration Testing Steps
 
 <p align="center">
-    <img src="https://www.tutorialspoint.com/penetration_testing/images/penetration_testing_method.jpg">
+    <img src="https://www.stationx.net/wp-content/uploads/2023/07/Penetration-Test-Methodology.png">
 </p>
 
-*Image source: [Penetration Testing Steps: A Comprehensive Guide](https://www.stationx.net/wp-content/uploads/2023/07/Penetration-Test-Methodology.png)*
+*Image source: [How to Perform Network Penetration Testing in 2025](https://www.stationx.net/how-to-perform-network-penetration-testing/)*
 
-[Read more about pen testing](https://www.tutorialspoint.com/penetration_testing/index.htm)
+[Read more about Penetration Testing](https://www.tutorialspoint.com/penetration_testing/index.htm)
 
 ([Table of Contents](#table-of-contents))
 
