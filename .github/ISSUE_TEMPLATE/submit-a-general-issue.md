@@ -8,6 +8,6 @@ assignees: ''
 ---
 
 **Related content :** Guide|Tools
-**Issue with the content :** Yes|No
+**Issue with the content:** Yes|No
 
-*Your comments here. Please read CONTRIBUTING.md before posting issues.*
+*Your comments here. Please read **CONTRIBUTING.md** before posting issues.*
