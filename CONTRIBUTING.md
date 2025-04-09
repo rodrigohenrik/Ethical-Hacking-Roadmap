@@ -6,7 +6,7 @@ The main goal of this project is to promote **ethical hacking** and to create ed
 
 > **Please do not open issues to request help with tools.**
 
-This space is focused on ethical hacking education. For general discussions, please head over to the *[**#discussions**](https://github.com/sundowndev/hacker-roadmap#discussions)* section in the **README**.
+This space is focused on ethical hacking education. For general discussions, please head over to the *[**#discussions**](https://github.com/rodrigohenrik/hacker-roadmap#discussions)* section in the **README**.
 
 ## Submitting a New Tool
 
