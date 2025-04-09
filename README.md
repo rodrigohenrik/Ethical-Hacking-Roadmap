@@ -2,7 +2,19 @@
     <img src="https://i.imgur.com/1PmMhIr.png" alt="Ethical Hacker Roadmap" /><br>
 </p>
 
-This repository is an overview of what you need to learn penetration testing and a collection of hacking tools, resources, and references to practice ethical hacking. Most of the tools are UNIX compatible, free, and open source.
+# Ethical Hacking Roadmap
+
+Este repositório é um guia completo para quem deseja aprender **pentest** e **ethical hacking** do zero ao avançado. Aqui você encontrará uma trilha organizada de conhecimentos, ferramentas, recursos e referências para praticar testes de invasão de forma ética e segura.
+
+A maioria das ferramentas incluídas é compatível com sistemas UNIX, **gratuita** e **open source**.
+
+### 📌 O que você vai encontrar:
+- Roteiro de aprendizado por etapas (teoria e prática)
+- Ferramentas essenciais para cada fase do pentest
+- Links para laboratórios, livros, CTFs e cheatsheets
+- Conteúdo voltado tanto para iniciantes quanto para quem quer se aprofundar na área
+
+> ⚠️ **Este projeto é voltado exclusivamente para fins educacionais e éticos.** Use com responsabilidade.
 
 ## Status
 
@@ -94,7 +106,7 @@ This repository aims first to establish a reflection method on penetration testi
 
 Also, this is important to inform yourself about the law and what you are allowed to do or not. According to your country, the computer laws are not the same. First, check laws about privacy and surveillance: [Nine eyes countries](https://en.wikipedia.org/wiki/Five_Eyes#Other_international_cooperatives), [Five eyes](https://en.wikipedia.org/wiki/Five_Eyes), and Fourteen Eyes. Always check if what you're doing is legal. Even when it's not offensive, information gathering can also be illegal!
 
-[*Go to the index*](#index) :point_up_2_tone1
+[*Go to the index*](#index) :point_up_2_tone1:
 
 # Some vocabulary
 
