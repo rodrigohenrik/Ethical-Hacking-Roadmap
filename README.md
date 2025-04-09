@@ -188,7 +188,7 @@ These are the most used Content Management Systems (CMS). See a complete list [h
 
 # Tools by category
 
-A more complete list of tools can be found on the [Kali Linux official website](https://tools.kali.org/tools-listing).
+A more complete list of tools can be found on the [Kali Linux official website](https://www.kali.org/tools/).
 
 #### :male_detective: Information Gathering
 
@@ -340,7 +340,13 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 - [The Hacker News](https://thehackernews.com/)
 - [WeLiveSecurity](https://www.welivesecurity.com/en/)
+- [Hacker News](https://news.ycombinator.com/)
+- [Hackerday](https://hackaday.com/blog/)
+- [HackerOne](https://www.hackerone.com/blog)
+- [Latest Hacking News](https://latesthackingnews.com/)
 - [Hackread](https://hackread.com/)
+
+[70 Best Hacker Blogs and Websites in 2025](https://bloggers.feedspot.com/hacker_blogs/) - FeedSpot
 
 ## Security Advisories
 
