@@ -440,6 +440,6 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 # License
 
-This repository is under the MIT license.
+This repository is under the [MIT license] (https://github.com/rodrigohenrik/Ethical-Hacking-Roadmap/blob/master/LICENSE).
 
 [*Go to the index*](#index) 👆🏻
