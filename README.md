@@ -58,6 +58,7 @@ Most of the tools included are **UNIX-compatible**, **free**, and **open source*
   - [Books / Manuals](#books--manuals)
   - [Discussions](#discussions)
   - [News](#news)
+  - [Blogs](#blogs)
   - [Security Advisories](#security-advisories)
   - [Challenges](#challenges)
 - [License](#license)
@@ -415,6 +416,9 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [HackerOne](https://www.hackerone.com/blog)
 - [Latest Hacking News](https://latesthackingnews.com/)
 - [Hackread](https://hackread.com/)
+
+## Blogs
+
 - [70 Best Hacker Blogs and Websites in 2025](https://bloggers.feedspot.com/hacker_blogs/) (FeedSpot)
 
 ## Security Advisories
@@ -440,6 +444,6 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 # License
 
-This repository is under the [MIT license] (https://github.com/rodrigohenrik/Ethical-Hacking-Roadmap/blob/master/LICENSE).
+This repository is under the [MIT license](https://github.com/rodrigohenrik/Ethical-Hacking-Roadmap/blob/master/LICENSE).
 
 [*Go to the index*](#index) 👆🏻
