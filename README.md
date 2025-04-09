@@ -240,7 +240,6 @@ These are the most used Content Management Systems (CMS). See a complete list [h
 <p align="center">
     <img src="https://i.imgur.com/W9fI75p.png">
 </p>
-
 *Image source: [How to Perform Network Penetration Testing in 2025](https://www.stationx.net/how-to-perform-network-penetration-testing/)*.
 
 ➡️ [Read more about Penetration Testing here!](https://www.tutorialspoint.com/penetration_testing/index.htm)
