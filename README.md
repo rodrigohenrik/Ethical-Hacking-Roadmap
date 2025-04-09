@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://imgur.com/1PmMhIr" alt="Ethical Hacker Roadmap" /><br>
+    <img src="https://i.imgur.com/1PmMhIr.png" alt="Ethical Hacker Roadmap" /><br>
 </p>
 
 This repository is an overview of what you need to learn penetration testing and a collection of hacking tools, resources, and references to practice ethical hacking. Most of the tools are UNIX compatible, free, and open source.
