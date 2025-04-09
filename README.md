@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/1PmMhIr.png" alt="Ethical Hacking Roadmap" /><br>
 </p>
 
-# Ethical Hacking Roadmap
+# ✅ Ethical Hacking Roadmap
 
 This repository is a comprehensive guide for anyone looking to learn **penetration testing** and **ethical hacking** — from beginner to advanced. You'll find a structured learning path, essential tools, curated resources, and references to practice hacking legally and responsibly.
 
@@ -238,10 +238,12 @@ These are the most used Content Management Systems (CMS). See a complete list [h
 ## The Penetration Testing Steps
 
 <p align="center">
-    <img src="https://www.stationx.net/wp-content/uploads/2023/07/Penetration-Test-Methodology.png">
+    <img src="https://i.imgur.com/W9fI75p.png">
 </p>
 
-*Image source: [How to Perform Network Penetration Testing in 2025](https://www.stationx.net/how-to-perform-network-penetration-testing/)*. [Read more about Penetration Testing](https://www.tutorialspoint.com/penetration_testing/index.htm)
+*Image source: [How to Perform Network Penetration Testing in 2025](https://www.stationx.net/how-to-perform-network-penetration-testing/)*.
+
+➡️ [Read more about Penetration Testing here!](https://www.tutorialspoint.com/penetration_testing/index.htm)
 
 [*Go to the index*](#index) 👆🏻
 
