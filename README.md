@@ -37,7 +37,7 @@ Most of the tools included are **UNIX-compatible**, **free**, and **open source*
 - [Introduction](#introduction)
   - [What is penetration testing?](#what-is-penetration-testing)
   - [Want to become a penetration tester?](#want-to-become-a-penetration-tester)
-- [Some Ethical Hacking vocabulary](#some-ethicalhacking-vocabulary)
+- [Some Ethical Hacking vocabulary](#some-ethical-hacking-vocabulary)
 - [Difference between hacking and ethical hacking](#difference-between-hacking-and-ethical-hacking)
 - [Languages](#languages)
 - [Content Management Systems](#content-management-systems)
