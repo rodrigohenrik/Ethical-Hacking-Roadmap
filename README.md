@@ -378,29 +378,31 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 ## Education
 
+- [Security](https://github.com/sindresorhus/awesome/tree/main?tab=readme-ov-file#security) (Awesome List)
 - [Cyber Security Expert](https://roadmap.sh/cyber-security) (Roadmap.sh)
 - [Cyber Security Tutorial](https://www.tutorialspoint.com/cybersecurity/index.htm)
 - [Ethical Hacking in 12 Hours - Full Course - Learn to Hack!](https://www.youtube.com/watch?v=fNzpcB7ODxQ) (The Cyber Mentor)
+- [Awesome Cyber Security University](https://github.com/brootware/awesome-cyber-security-university?tab=readme-ov-file#awesome-cyber-security-university-) (Awesome List)
 - [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu) (freeCodeCamp.org)
 - [Complete Hacker & Cybersecurity Glossary](https://github.com/rodrigohenrik/Complete-Hacker-Cybersecurity-Glossary)
-- [Developer Roadmaps](https://roadmap.sh/)
+- [Developer Roadmaps](https://roadmap.sh/) (Roadmap.sh)
 
 ## YouTube
 
-- [Ryan Montgomery](https://www.youtube.com/@0dayCTF)
-- [The hacker’s roadmap (how to get started in IT in 2025)](https://www.youtube.com/watch?v=5xWnmUEi1Qw) (NetworkChuck)
-- [2025 Ethical Hacker Roadmap with lots of free training (NOT Sponsored)](https://www.youtube.com/watch?v=OCjh8AULc8Y) (David Bombal)
+- [Ryan Montgomery](https://www.youtube.com/@0dayCTF) - The YouTube channel "@0dayCTF" is operated by Ryan Montgomery, also known as 0day. The channel focuses on cybersecurity topics, including Capture The Flag (CTF) challenges, ethical hacking, and penetration testing techniques. It serves as a resource for individuals interested in enhancing their cybersecurity skills and knowledge.
+- [The hacker’s roadmap (how to get started in IT in 2025)](https://www.youtube.com/watch?v=5xWnmUEi1Qw) (NetworkChuck) - The video provides practical advice on how to start a career in Information Technology, covering key steps, certifications, and strategies to break into the IT industry. It's designed to guide beginners through the evolving tech landscape with clear and actionable insights.
+- [2025 Ethical Hacker Roadmap with lots of free training (NOT Sponsored)](https://www.youtube.com/watch?v=OCjh8AULc8Y) (David Bombal) - The video titled "How to get a job in IT (2025)" offers guidance on starting a career in Information Technology. It covers key steps, certifications, and strategies to enter the IT industry, providing actionable insights for beginners navigating the evolving tech landscape.
 
 ## Books / Manuals
 
 - [Kali Docs](https://www.kali.org/docs/)
-- [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641) (2014)
+- [Cybersecurity - Attack and Defense Strategies](https://www.amazon.com/Cybersecurity-Defense-Strategies-Infrastructure-security/dp/1788475291) (2018)
 - [Kali Linux Revealed](https://www.amazon.com/Kali-Linux-Revealed-Penetration-Distribution/dp/0997615605) (2017)
 - [Blue Team Field Manual (BTFM)](https://www.amazon.com/Blue-Team-Field-Manual-BTFM/dp/154101636X) (2017)
-- [Cybersecurity - Attack and Defense Strategies](https://www.amazon.com/Cybersecurity-Defense-Strategies-Infrastructure-security/dp/1788475291) (2018)
-- [NMAP Network Scanning: Official Discovery](https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717) (2009)
-- [Social Engineering: The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539) (2010)
+- [Penetration Testing: A Hands-On Introduction to Hacking](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641) (2014)
 - [Incognito Toolkit: Tools, Apps, and Creative Methods for Remaining Anonymous](https://www.amazon.com/Incognito-Toolkit-Communicating-Publishing-Researching/dp/0985049146) (2013)
+- [Social Engineering: The Art of Human Hacking](https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/0470639539) (2010)
+- [NMAP Network Scanning: Official Discovery](https://www.amazon.com/Nmap-Network-Scanning-Official-Discovery/dp/0979958717) (2009)
 
 ## Discussions
 
@@ -411,17 +413,17 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 ## News
 
-- [The Hacker News](https://thehackernews.com/)
-- [WeLiveSecurity](https://www.welivesecurity.com/en/)
-- [Hacker News](https://news.ycombinator.com/)
-- [Hackerday](https://hackaday.com/blog/)
-- [HackerOne](https://www.hackerone.com/blog)
-- [Latest Hacking News](https://latesthackingnews.com/)
-- [Hackread](https://hackread.com/)
+- [The Hacker News](https://thehackernews.com/) - The Hacker News is a leading cybersecurity news portal, globally recognized for providing daily updates on digital threats, vulnerabilities, cyberattacks, and trends in information security.
+- [WeLiveSecurity](https://www.welivesecurity.com/en/) - WeLiveSecurity is an award-winning cybersecurity blog by ESET, offering expert insights, the latest security news, in-depth analyses, and practical advice to help users and businesses navigate the evolving digital landscape.
+- [Hacker News](https://news.ycombinator.com/) - Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by the investment fund and startup incubator Y Combinator. Content that can be submitted is defined as "anything that gratifies one's intellectual curiosity."
+- [Hackerday](https://hackaday.com/blog/) - Hackaday is an online magazine founded in 2004 that publishes daily articles on hardware and software hacks, DIY projects, and engineering innovations. It serves as a platform for engineers and enthusiasts to share creative modifications and original inventions. In addition to its blog, Hackaday hosts Hackaday.io, a collaborative community for documenting and sharing open-source hardware projects.
+- [HackerOne](https://www.hackerone.com/blog) - The HackerOne blog provides insights into cybersecurity, ethical hacking, and vulnerability management, featuring articles on industry trends, best practices, and community stories.
+- [Latest Hacking News](https://latesthackingnews.com/) - Latest Hacking News is a cybersecurity platform offering up-to-date news, penetration testing tools, and courses for ethical hackers, penetration testers, IT security experts, and enthusiasts.
+- [Hackread](https://hackread.com/) - HackRead is a UK-based cybersecurity news platform founded in November 2011. It focuses on topics such as technology, security, privacy, surveillance, cyberwarfare, and cybercrime, offering in-depth reviews of social media platforms and technology trends. The platform aims to educate and protect users by providing timely news and insights into online threats.
 
 ## Blogs
 
-- [70 Best Hacker Blogs and Websites in 2025](https://bloggers.feedspot.com/hacker_blogs/) (FeedSpot)
+- [70 Best Hacker Blogs and Websites in 2025](https://bloggers.feedspot.com/hacker_blogs/) - Feedspot's "70 Best Hacker Blogs and Websites in 2025" is a curated list of top hacker blogs, ranked based on relevancy, authority, social media followers, and freshness. It serves as a comprehensive resource for cybersecurity professionals and enthusiasts to stay updated on the latest in hacking and information security.
 
 ## Security Advisories
 
