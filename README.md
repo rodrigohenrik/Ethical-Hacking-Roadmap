@@ -444,7 +444,15 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 [*Go to the index*](#-index--table-of-contents) 👆🏻
 
-# 💎 License
+## 🔗 Related Topics
+
+- [Complete Hacker & Cybersecurity Glossary](https://github.com/rodrigohenrik/Complete-Hacker-Cybersecurity-Glossary)
+
+## ⭐️ Support the Project
+
+If this resource was helpful to you, consider giving the repo a ⭐ and sharing it with others in the security community!
+
+## 💎 License
 
 This repository is under the [MIT license](https://github.com/rodrigohenrik/Ethical-Hacking-Roadmap/blob/master/LICENSE).
 
