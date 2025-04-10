@@ -107,7 +107,7 @@ This repository aims first to establish a reflection method on penetration testi
 
 Also, this is important to inform yourself about the law and what you are allowed to do or not. According to your country, the computer laws are not the same. First, check laws about privacy and surveillance: [Nine eyes countries](https://en.wikipedia.org/wiki/Five_Eyes#Other_international_cooperatives), [Five eyes](https://en.wikipedia.org/wiki/Five_Eyes), and [Fourteen Eyes](https://en.wikipedia.org/wiki/Five_Eyes#Fourteen_Eyes). Always check if what you're doing is legal. Even when it's not offensive, information gathering can also be illegal!
 
-[*Go to the index*](#index--table-of-contents) 👆🏻
+[*Go to the index*](#-index--table-of-contents) 👆🏻
 
 # 📌 Some Ethical Hacking Terms
 
