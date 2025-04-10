@@ -286,7 +286,7 @@ Crack passwords and create wordlists.
 
 | Tool        | Description    |
 | ----------- |----------------|
-| [Probable Wordlist](https://github.com/berzerk0/Probable-Wordlists)      | Wordlists sorted by probability created for password generation and testing. |
+| [Probable Wordlist](https://github.com/berzerk0/Probable-Wordlists)      | Wordlists sorted by probability created for password generation and testing. Probable-Wordlists is a GitHub repository by user 'berzerk0' that offers wordlists sorted by probability, designed for password generation and testing. The project aims to help users ensure their passwords are not commonly used, thereby enhancing security. The repository includes various lists compiled from real password data, organized to reflect the likelihood of occurrence, making it a valuable resource for security professionals and researchers. |
 
 ### :globe_with_meridians: Wireless Testing
 
