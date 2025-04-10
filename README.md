@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/1PmMhIr.png" alt="Ethical Hacking Roadmap" /><br>
+    <a href="https://github.com/rodrigohenrik/Ethical-Hacking-Roadmap/"<img src="https://i.imgur.com/1PmMhIr.png" alt="Ethical Hacking Roadmap" /></a><br>
 </p>
 
 # ✅ Ethical Hacking Roadmap
