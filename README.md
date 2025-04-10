@@ -4,9 +4,7 @@
 
 # ✅ Ethical Hacking Roadmap
 
-This repository is a comprehensive guide for anyone looking to learn **penetration testing** and **ethical hacking** — from beginner to advanced. You'll find a structured learning path, essential tools, curated resources, and references to practice hacking legally and responsibly.
-
-Most of the tools included are **UNIX-compatible**, **free**, and **open source**.
+The **Ethical Hacking Roadmap** repository offers a comprehensive, step-by-step guide for aspiring ethical hackers and penetration testers — from complete beginners to advanced learners. It features a structured learning path, essential tools, carefully curated resources, and trusted references to help you practice hacking legally, ethically, and effectively.
 
 ## 📌 What’s inside:
 - Step-by-step learning roadmap (theory + hands-on practice)  
