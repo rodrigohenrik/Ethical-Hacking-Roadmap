@@ -362,6 +362,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 - [Awesome-Hacking Lists](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [The Life of a Security Researcher](https://www.alienvault.com/blogs/security-essentials/the-life-of-a-security-researcher)
+- [Complete Hacker & Cybersecurity Glossary](https://github.com/rodrigohenrik/Complete-Hacker-Cybersecurity-Glossary)
 - [Find awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
 - [Don't use VPN services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
 - [How to Avoid Becoming a Script Kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie)
@@ -381,6 +382,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Cyber Security Tutorial](https://www.tutorialspoint.com/cybersecurity/index.htm)
 - [Ethical Hacking in 12 Hours - Full Course - Learn to Hack!](https://www.youtube.com/watch?v=fNzpcB7ODxQ) (The Cyber Mentor)
 - [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu) (freeCodeCamp.org)
+- [Complete Hacker & Cybersecurity Glossary](https://github.com/rodrigohenrik/Complete-Hacker-Cybersecurity-Glossary)
 - [Developer Roadmaps](https://roadmap.sh/)
 
 ## YouTube
