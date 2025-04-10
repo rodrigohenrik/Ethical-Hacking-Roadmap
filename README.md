@@ -32,7 +32,7 @@ Most of the tools included are **UNIX-compatible**, **free**, and **open source*
 - I wish you wouldn't use these tools for illegal purposes, but if you do, I sure hope you know what you're doing.
 - Practice using [challenges](#challenges), not real targets!
 
-# Index / Table of Contents
+# 📄 Index / Table of Contents
 
 - [Introduction](#introduction)
   - [What is penetration testing?](#what-is-penetration-testing)
@@ -65,7 +65,7 @@ Most of the tools included are **UNIX-compatible**, **free**, and **open source*
 
 *TOC made with: [nGitHubTOC](https://imthenachoman.github.io/nGitHubTOC/)*
 
-# Introduction
+# 💎 Introduction
 
 ## What is penetration testing?
 
@@ -109,7 +109,7 @@ Also, this is important to inform yourself about the law and what you are allowe
 
 [*Go to the index*](#index--table-of-contents) 👆🏻
 
-# Some Ethical Hacking Terms
+# 📌 Some Ethical Hacking Terms
 
 - **Infosec**: Information security, which is the practice of preventing unauthorized access, use, disclosure, disruption, modification, inspection, recording, or destruction of information. The information or data may take any form, e.g., electronic or physical. Infosec can also be a person who practices ethical security. [Wikipedia](https://en.wikipedia.org/wiki/Information_security)
 
@@ -133,7 +133,7 @@ Also, this is important to inform yourself about the law and what you are allowe
 
 [*Go to the index*](#index--table-of-contents) 👆🏻
 
-# Difference Between Hacking and Ethical Hacking
+# 💻 Difference Between Hacking and Ethical Hacking
 
 While both hackers and ethical hackers use similar techniques and skills, their intentions and goals are fundamentally different.
 
@@ -145,7 +145,7 @@ An ethical hacker is essentially a security expert who thinks like a hacker—bu
 
 [*Go to the index*](#index--table-of-contents) 👆🏻
 
-# Languages
+# 🔠 Languages
 
 Learning programming is one of the best ways to begin your journey into cybersecurity. Understanding how code works helps you spot vulnerabilities, write tools, and automate tasks.
 
@@ -181,7 +181,7 @@ Each language also comes with its own design patterns and best practices. Choosi
 
 [*Go to the index*](#index--table-of-contents) 👆🏻
 
-# Content Management Systems
+# 📝 Content Management Systems
 
 Content Management Systems (CMS) are platforms that allow users to create, manage, and modify digital content with ease — often without needing to code.
 
@@ -196,7 +196,7 @@ These are the most used Content Management Systems (CMS). See a complete list [h
 
 [*Go to the index*](#index--table-of-contents) 👆🏻
 
-# Basic Steps of Penetration Testing
+# 💡 Basic Steps of Penetration Testing
 
 1. **Planning & Reconnaissance**
    - Define scope, goals, and rules of engagement
@@ -247,7 +247,7 @@ These are the most used Content Management Systems (CMS). See a complete list [h
 
 [*Go to the index*](#index--table-of-contents) 👆🏻
 
-# Tools by Category
+# 🛠️ Tools by Category
 
 A more complete list of tools can be found on the [Kali Linux official website](https://www.kali.org/tools/).
 
@@ -358,7 +358,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 [*Go to the index*](#index--table-of-contents) 👆🏻
 
-# Additional Resources
+# 💼 Additional Resources
 
 - [Awesome-Hacking Lists](https://github.com/Hack-with-Github/Awesome-Hacking)
 - [The Life of a Security Researcher](https://www.alienvault.com/blogs/security-essentials/the-life-of-a-security-researcher)
@@ -442,7 +442,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 [*Go to the index*](#index--table-of-contents) 👆🏻
 
-# License
+# 💎 License
 
 This repository is under the [MIT license](https://github.com/rodrigohenrik/Ethical-Hacking-Roadmap/blob/master/LICENSE).
 
