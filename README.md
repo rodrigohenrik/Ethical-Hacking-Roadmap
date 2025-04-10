@@ -34,15 +34,15 @@ Most of the tools included are **UNIX-compatible**, **free**, and **open source*
 
 # 📄 Index / Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](#-introduction)
   - [What is penetration testing?](#what-is-penetration-testing)
   - [Want to become a penetration tester?](#want-to-become-a-penetration-tester)
-- [Some Ethical Hacking Terms](#some-ethical-hacking-terms)
-- [Difference Between Hacking and Ethical Hacking](#difference-between-hacking-and-ethical-hacking)
-- [Languages](#languages)
-- [Content Management Systems](#content-management-systems)
-- [Basic Steps of Penetration Testing](#basic-steps-of-penetration-testing)
-- [Tools by Category](#tools-by-category)
+- [Some Ethical Hacking Terms](#-some-ethical-hacking-terms)
+- [Difference Between Hacking and Ethical Hacking](#-difference-between-hacking-and-ethical-hacking)
+- [Languages](#-languages)
+- [Content Management Systems](#-content-management-systems)
+- [Basic Steps of Penetration Testing](#-basic-steps-of-penetration-testing)
+- [Tools by Category](#-tools-by-category)
   - [:male_detective: Information Gathering](#male_detective-information-gathering)
   - [:lock: Password Attacks](#lock-password-attacks)
     - [:memo: Wordlists](#memo-wordlists)
@@ -52,7 +52,7 @@ Most of the tools included are **UNIX-compatible**, **free**, and **open source*
   - [:rocket: Web Hacking](#rocket-web-hacking)
   - [:tada: Post Exploitation](#tada-post-exploitation)
   - [:package: Frameworks](#package-frameworks)
-- [Additional Resources](#additional-resources)
+- [Additional Resources](#-additional-resources)
   - [Education](#education)
   - [YouTube](#youtube)
   - [Books / Manuals](#books--manuals)
@@ -61,7 +61,7 @@ Most of the tools included are **UNIX-compatible**, **free**, and **open source*
   - [Blogs](#blogs)
   - [Security Advisories](#security-advisories)
   - [Challenges](#challenges)
-- [License](#license)
+- [License](#-license)
 
 *TOC made with: [nGitHubTOC](https://imthenachoman.github.io/nGitHubTOC/)*
 
