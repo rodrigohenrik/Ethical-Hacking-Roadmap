@@ -18,7 +18,7 @@ Most of the tools included are **UNIX-compatible**, **free**, and **open source*
 
 ## Status
 
-**This project is constantly being updated**. Some content may be out of date. **(Last revision:** April 9, 2025)
+**This project is constantly being updated**. Some content may be out of date. **(Last revision:** April 10, 2025)
 
 ----
 
@@ -130,6 +130,8 @@ Also, this is important to inform yourself about the law and what you are allowe
 - **Social engineering**: In the context of information security, it refers to psychological manipulation of people into performing actions or divulging confidential information. A type of confidence trick for information gathering, fraud, or system access, it differs from a traditional "con" in that it is often one of many steps in a more complex fraud scheme. The term "social engineering" as an act of psychological manipulation of a human is also associated with the social sciences, but its usage has caught on among computer and information security professionals. [Wikipedia](https://en.wikipedia.org/wiki/Social_engineering_(security))
 
 - **Threat analyst**: A threat hunter, also called a cybersecurity threat analyst, is a security professional or managed service provider (MSP) that proactively uses manual or machine-assisted techniques to detect security incidents that may elude the grasp of automated systems. Threat hunters aim to uncover incidents that an enterprise would otherwise not find out about, providing chief information security officers (CISOs) and chief information officers (CIOs) with an additional line of defense against advanced persistent threats (APTs). [SearchCIO](https://searchcio.techtarget.com/definition/threat-hunter-cybersecurity-threat-analyst)
+
+- Read also: [Complete Hacker & Cybersecurity Glossary](https://github.com/rodrigohenrik/Complete-Hacker-Cybersecurity-Glossary)
 
 [*Go to the index*](#-index--table-of-contents) 👆🏻
 
@@ -391,7 +393,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 
 - [Ryan Montgomery](https://www.youtube.com/@0dayCTF) - The YouTube channel "@0dayCTF" is operated by Ryan Montgomery, also known as 0day. The channel focuses on cybersecurity topics, including Capture The Flag (CTF) challenges, ethical hacking, and penetration testing techniques. It serves as a resource for individuals interested in enhancing their cybersecurity skills and knowledge.
 - [The hacker’s roadmap (how to get started in IT in 2025)](https://www.youtube.com/watch?v=5xWnmUEi1Qw) (NetworkChuck) - The video provides practical advice on how to start a career in Information Technology, covering key steps, certifications, and strategies to break into the IT industry. It's designed to guide beginners through the evolving tech landscape with clear and actionable insights.
-- [2025 Ethical Hacker Roadmap with lots of free training (NOT Sponsored)](https://www.youtube.com/watch?v=OCjh8AULc8Y) (David Bombal) - The video titled "How to get a job in IT (2025)" offers guidance on starting a career in Information Technology. It covers key steps, certifications, and strategies to enter the IT industry, providing actionable insights for beginners navigating the evolving tech landscape.
+- [2025 Ethical Hacker Roadmap with lots of free training](https://www.youtube.com/watch?v=OCjh8AULc8Y) (David Bombal) - The video titled "How to get a job in IT (2025)" offers guidance on starting a career in Information Technology. It covers key steps, certifications, and strategies to enter the IT industry, providing actionable insights for beginners navigating the evolving tech landscape.
 
 ## Books / Manuals
 
