@@ -25,7 +25,7 @@ Most of the tools included are **UNIX-compatible**, **free**, and **open source*
 ## Before you start
 
 - If you're new to information security, forget everything you know about hacking.
-- Don't start using tools without reading about pen testing and how it works *(see [Additional resources](#additional-resources) section)*.
+- Don't start using tools without reading about pen testing and how it works *(see [Additional resources](#-additional-resources) section)*.
 - Don't download or use tools without auditing their code.
 - Don't use these tools to do stupid things like investigating/hacking without consent on your friends, or worse, your recruiter.
 - Read books, manuals, and articles, be curious, and do not just be a [script kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie).
@@ -247,7 +247,7 @@ These are the most used Content Management Systems (CMS). See a complete list [h
 
 [*Go to the index*](#-index--table-of-contents) 👆🏻
 
-# 🛠️ Tools by Category
+# 💻 Tools by Category
 
 A more complete list of tools can be found on the [Kali Linux official website](https://www.kali.org/tools/).
 
