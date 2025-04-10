@@ -54,6 +54,7 @@ Most of the tools included are **UNIX-compatible**, **free**, and **open source*
   - [:package: Frameworks](#package-frameworks)
 - [Additional Resources](#-additional-resources)
   - [Education](#education)
+  - [Certification Roadmap](#certification-roadmap)
   - [YouTube](#youtube)
   - [Books / Manuals](#books--manuals)
   - [Discussions](#discussions)
@@ -131,7 +132,7 @@ Also, this is important to inform yourself about the law and what you are allowe
 
 - **Threat analyst**: A threat hunter, also called a cybersecurity threat analyst, is a security professional or managed service provider (MSP) that proactively uses manual or machine-assisted techniques to detect security incidents that may elude the grasp of automated systems. Threat hunters aim to uncover incidents that an enterprise would otherwise not find out about, providing chief information security officers (CISOs) and chief information officers (CIOs) with an additional line of defense against advanced persistent threats (APTs). [SearchCIO](https://searchcio.techtarget.com/definition/threat-hunter-cybersecurity-threat-analyst)
 
-- Read also: [Complete Hacker & Cybersecurity Glossary](https://github.com/rodrigohenrik/Complete-Hacker-Cybersecurity-Glossary)
+➡️ Read: [Complete Hacker & Cybersecurity Glossary](https://github.com/rodrigohenrik/Complete-Hacker-Cybersecurity-Glossary)
 
 [*Go to the index*](#-index--table-of-contents) 👆🏻
 
@@ -388,6 +389,14 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE&list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu) (freeCodeCamp.org)
 - [Complete Hacker & Cybersecurity Glossary](https://github.com/rodrigohenrik/Complete-Hacker-Cybersecurity-Glossary)
 - [Developer Roadmaps](https://roadmap.sh/) (Roadmap.sh)
+
+## Certification Roadmap
+
+- [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
+
+<p align="center">
+    <a href="https://pauljerimy.com/security-certification-roadmap/"><img src="https://i.imgur.com/mHg1Bih.jpeg" alt="Security Certification Roadmap" /></a><br>
+</p>
 
 ## YouTube
 
