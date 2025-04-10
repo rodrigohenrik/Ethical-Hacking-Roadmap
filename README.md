@@ -131,7 +131,7 @@ Also, this is important to inform yourself about the law and what you are allowe
 
 - **Threat analyst**: A threat hunter, also called a cybersecurity threat analyst, is a security professional or managed service provider (MSP) that proactively uses manual or machine-assisted techniques to detect security incidents that may elude the grasp of automated systems. Threat hunters aim to uncover incidents that an enterprise would otherwise not find out about, providing chief information security officers (CISOs) and chief information officers (CIOs) with an additional line of defense against advanced persistent threats (APTs). [SearchCIO](https://searchcio.techtarget.com/definition/threat-hunter-cybersecurity-threat-analyst)
 
-[*Go to the index*](#index--table-of-contents) 👆🏻
+[*Go to the index*](#-index--table-of-contents) 👆🏻
 
 # 💻 Difference Between Hacking and Ethical Hacking
 
@@ -143,7 +143,7 @@ Ethical hacking involves identifying vulnerabilities in systems, networks, or ap
 
 An ethical hacker is essentially a security expert who thinks like a hacker—but acts with permission and integrity. They simulate real-world attacks to test defenses and ensure that systems are as secure as possible.
 
-[*Go to the index*](#index--table-of-contents) 👆🏻
+[*Go to the index*](#-index--table-of-contents) 👆🏻
 
 # 🔠 Languages
 
@@ -179,7 +179,7 @@ Each language also comes with its own design patterns and best practices. Choosi
 - PHP
 - Go
 
-[*Go to the index*](#index--table-of-contents) 👆🏻
+[*Go to the index*](#-index--table-of-contents) 👆🏻
 
 # 📝 Content Management Systems
 
@@ -194,7 +194,7 @@ Content Management Systems (CMS) are platforms that allow users to create, manag
 
 These are the most used Content Management Systems (CMS). See a complete list [here](https://en.wikipedia.org/wiki/List_of_content_management_systems).
 
-[*Go to the index*](#index--table-of-contents) 👆🏻
+[*Go to the index*](#-index--table-of-contents) 👆🏻
 
 # 💡 Basic Steps of Penetration Testing
 
@@ -245,7 +245,7 @@ These are the most used Content Management Systems (CMS). See a complete list [h
 
 ➡️ [Read more about Penetration Testing here!](https://www.tutorialspoint.com/penetration_testing/index.htm)
 
-[*Go to the index*](#index--table-of-contents) 👆🏻
+[*Go to the index*](#-index--table-of-contents) 👆🏻
 
 # 🛠️ Tools by Category
 
@@ -356,7 +356,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 | [Mobile Security Framework (MobSF)](https://github.com/MobSF/Mobile-Security-Framework-MobSF)      | **Python** | `Linux/Windows/macOS` | Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis. |
 | [Burp Suite](https://portswigger.net/burp)      | **Java** | `Linux/Windows/macOS` | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger. **This tool is not free and open source** |
 
-[*Go to the index*](#index--table-of-contents) 👆🏻
+[*Go to the index*](#-index--table-of-contents) 👆🏻
 
 # 💼 Additional Resources
 
@@ -440,10 +440,10 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [TryHackMe](https://tryhackme.com/) - TryHackMe is a free online platform for learning cybersecurity, using hands-on exercises and labs.
 - [PicoCTF](https://picoctf.org/) - Provides you with fun CTF challenges of varying levels of difficulty to practice on.
 
-[*Go to the index*](#index--table-of-contents) 👆🏻
+[*Go to the index*](#-index--table-of-contents) 👆🏻
 
 # 💎 License
 
 This repository is under the [MIT license](https://github.com/rodrigohenrik/Ethical-Hacking-Roadmap/blob/master/LICENSE).
 
-[*Go to the index*](#index--table-of-contents) 👆🏻
+[*Go to the index*](#-index--table-of-contents) 👆🏻
