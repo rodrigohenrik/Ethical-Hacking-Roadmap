@@ -367,6 +367,7 @@ Frameworks are packs of pen testing tools with custom shell navigation and docum
 - [Find awesome hacking spots in your country](https://github.com/diasdavid/awesome-hacking-spots)
 - [Don't use VPN services](https://gist.github.com/joepie91/5a9909939e6ce7d09e29)
 - [How to Avoid Becoming a Script Kiddie](https://www.wikihow.com/Avoid-Becoming-a-Script-Kiddie)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 - [OWASP Top 10 Non-Human Identities Risks - 2025](https://owasp.org/www-project-non-human-identities-top-10/2025/top-10-2025/)
 - [Starting in cybersecurity?](https://blog.0day.rocks/starting-in-cybersecurity-5b02d827fb54)
 - [Crack Station](http://crackstation.net/)
